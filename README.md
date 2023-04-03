@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Pessoal! 👋
 
 <!--
 **Melissa-Fernanda/Melissa-Fernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###### Sobre Melissa:
+ Atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul, estou na procura de um estágio ou um primeiro emprego na área.
+ 
+ 
+
