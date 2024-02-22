@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###### Sobre Melissa:
- Atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul, estou na procura de um estágio ou um primeiro emprego na área.
+ Atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
  
  ### Detalhes 
  
