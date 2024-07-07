@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###### Sobre Melissa:
- Atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
+ Atualmente cursando Design Gráfico e Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
  
  ### Detalhes 
  
